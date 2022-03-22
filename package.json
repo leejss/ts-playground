@@ -1,0 +1,9 @@
+{
+  "name": "ts-playground",
+  "authors": "leejss",
+  "version": "1.0.0",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  }
+}
